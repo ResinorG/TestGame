@@ -11,5 +11,5 @@
 <End of Version>
 
 <Version: 1.04>
-/data/Map002.json https://github.com/ResinorG/TestGame/blob/main/Map002.json
+/data/Map002.json https://github.com/ResinorG/TestGame/edit/main/Map002.json
 <End of Version>
