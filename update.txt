@@ -15,5 +15,5 @@
 <End of Version>
 
 <Version: 1.05>
-/js/plugins https://github.com/ResinorG/TestGame/blob/main/js/plugins/YEP_CoreEngine.js
+/js/plugins/YEP_CoreEngine.js https://github.com/ResinorG/TestGame/blob/main/js/plugins/YEP_CoreEngine.js
 <End of Version>
