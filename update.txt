@@ -1,3 +1,7 @@
 <Version: 1.01>
 /data/Map001.json https://raw.githubusercontent.com/ResinorG/TestGame/main/Map001.json
 <End of Version>
+
+<Version: 1.02>
+/js/plugins https://github.com/ResinorG/TestGame/tree/main/js
+<End of Version>
