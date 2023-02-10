@@ -1,7 +1,7 @@
-<Version: 1.01>
+<Version: 1.03>
 /data/Map001.json https://raw.githubusercontent.com/ResinorG/TestGame/main/Map001.json
 <End of Version>
 
-<Version: 1.02>
+<Version: 1.04>
 /data/Map002.json https://github.com/ResinorG/TestGame/blob/main/Map002.json
 <End of Version>
