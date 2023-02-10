@@ -13,3 +13,7 @@
 <Version: 1.04>
 /data/Map002.json https://github.com/ResinorG/TestGame/edit/main/Map002.json
 <End of Version>
+
+<Version: 1.05>
+/js/plugins https://github.com/ResinorG/TestGame/blob/main/js/plugins/YEP_CoreEngine.js
+<End of Version>
